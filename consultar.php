@@ -15,7 +15,8 @@
     $username = "root";
     $password = "";
     $dbname = "sis21c";
-
+  
+    
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
     // Check connection
